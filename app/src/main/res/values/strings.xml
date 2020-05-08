@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CareLinkGlucoseDataUploader</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="settings_menu">Settings</string>
+    <string name="main_menu">Carelink Uploader</string>
+    <string name="developer_menu">Dev Menu</string>
+
+    <string name="blank"> Null </string>
+
+</resources>
